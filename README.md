@@ -1,6 +1,6 @@
 ## Hi, I'm Gonzalo 👋
 
-I am an interdisciplinary professional. I have been educated in Humanities but I have moved into the world of web development recently.
+I am an interdisciplinary professional. I have been educated in Humanities but I have recently moved into the world of web development.
 
 Philosophy taught me logical thinking and I constantly apply it to my daily life. I love MERN designs and I am always searching for new ways of making them smoother and more functional, but I won't refuse a bit of PHP fun.
 
@@ -9,7 +9,7 @@ I also have interest on the blockchain as a system (not so much about investment
 ### Find me around the web 🌐
 
 - 💼 [Linkedin](https://www.linkedin.com/in/gonzalo-garcia-arahuetes/)
-- 📫 [Email](gonzaloarahuetes@gmail.com)
+- 📫 gonzaloarahuetes@gmail.com
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
