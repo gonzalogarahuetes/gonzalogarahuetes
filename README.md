@@ -1,9 +1,9 @@
-## Hi, I'm Gonzalo 👋
+## Hi, my name is Gonzalo 👋
 
-I am an interdisciplinary professional. I have been educated in Humanities but I have moved into the world of web development.
+I am an interdisciplinary professional. Humanities is my main field of study but some years ago I moved into the world of web development.
 
-I have worked as a Full-stack developer, but I recently joined Tokeny Solutions as a junior back-end and devops developer.
+I have worked as a Full-stack developer, but in my current position I joined Tokeny Solutions as a back-end and devops developer.
 
 My life goes on among books, guitars, films and good people.
 
-If you want to talk to me you can reach me out at gonzaloarahuetes@proton.me or by LinkedIn.
+Would you like to talk to me, please reach me out at gonzaloarahuetes@proton.me or via LinkedIn.
